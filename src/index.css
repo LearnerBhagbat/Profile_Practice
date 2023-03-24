@@ -20,3 +20,24 @@ ul{
   list-style-type: none ;
 }
 
+.btn{
+  padding: 12px 12px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: yellow;
+  color: black;
+  border: 1px solid white;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn:hover{
+  background: blue;
+  color: azure;
+  transition: 0.3s;
+}
+
+.btn-light{
+background: transparent;
+color: white;
+}
