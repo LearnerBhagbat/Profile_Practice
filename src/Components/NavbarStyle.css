@@ -26,6 +26,15 @@ a {
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
+    position: fixed;
+    height: 90px;
+    width: 100%;
+    z-index: 10;
+}
+
+.header-bg{
+    background-color: rgba(0, 0, 0, 0.85);
+    transition: 0.5s;
 }
 
 .hamburger {

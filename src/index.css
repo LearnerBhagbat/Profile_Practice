@@ -24,7 +24,7 @@ ul{
   padding: 12px 12px;
   font-size: 1rem;
   text-transform: uppercase;
-  background: yellow;
+  background: rgb(0, 106, 255);
   color: black;
   border: 1px solid white;
   font-weight: 600;
@@ -41,3 +41,4 @@ ul{
 background: transparent;
 color: white;
 }
+
